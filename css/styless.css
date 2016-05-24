@@ -1,0 +1,15 @@
+h1 {
+text-align: center;
+color: #FF69B4;
+font-family: fantasy;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+li {
+  font-style: italic;
+  line-height: 40px;
+}
